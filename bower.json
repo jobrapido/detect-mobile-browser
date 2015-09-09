@@ -2,14 +2,11 @@
   "name": "detect-mobile-browser",
   "version": "0.0.1",
   "authors": [
-    "vrebierr <vrebierr@student.42.fr>"
+    "glallopitzi <giancarlo.lallopizzi@jobrapido.com>"
   ],
   "main": [
     "detectmobilebrowser.js"
   ],
-  "dependencies": {
-    "jquery": "1.11.*"
-  },
   "keywords": [
     "detect",
     "mobile",
